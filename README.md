@@ -1,2 +1,2 @@
-# gdac
-gdac rss test
+# pages
+cloudflare pages test
