@@ -1,2 +1,2 @@
 # pages
-cloudflare pages test
+Example cloudflare pages with Firebase Authentication .
